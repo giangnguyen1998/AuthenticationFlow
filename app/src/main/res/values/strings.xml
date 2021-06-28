@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewFlowTypes</string>
+    <string name="title_schedule">Scheduler</string>
+    <string name="agenda">Agenda</string>
+    <string name="event_codelabs_title">Codelabs</string>
+    <string name="title_map">Map</string>
+    <string name="settings_title">Settings</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+</resources>
